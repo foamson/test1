@@ -15,7 +15,7 @@
             --dracula-button-stop-talk-color: #525252; /* Кнопка остановки разговора - розовый */
             --dracula-button-continue-color: #525252; /* Кнопка продолжения - фиолетовый */
             --dracula-button-got-color: #525252;    /* Кнопка "понял" - зелёный */
-            --dracula-body-background: url('https://imgur.com/a/jNjOg79'); /* Оставил твой фон */
+            --dracula-body-background: url('https://imgur.com/a/3ZfT8jT'); /* Оставил твой фон */
             --dracula-header-background-color: #b8b8b8; /* Шапка - чуть светлее фон */
             --dracula-header-text-color: #f8f8f2;   /* Текст шапки - мягкий белый */
             --dracula-header-border-color: #b8b8b8; /* Граница шапки - фиолетовый */
@@ -439,4 +439,5 @@
         /* Состояние "выключено" */
         .night_theme .audio-chat .mute-button.muted::after {
             content: "Микро Выкл" !important;
+
         }
