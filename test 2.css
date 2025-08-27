@@ -7,7 +7,7 @@
             --dracula-checkbox-background-color: #a6a6ab; /* Чекбоксы - светло-серый */
             --dracula-active-checkbox-background-color: #525252; /* Активные чекбоксы - серый */
             --dracula-disabled-checkbox-background-color: #a6a6ab; /* Неактивные чекбоксы - светло-серый */
-            --dracula-checkbox-border-color: #fffafa; /* Границы чекбоксов - белый */
+            --dracula-checkbox-border-color: #000000; /* Границы чекбоксов - белый */
             --dracula-active-checkbox-border-color: #616161; /* Активные границы - серый */
             --dracula-disabled-checkbox-border-color: #616161; /* Неактивные границы - серый */
             --dracula-button-scan-color: #616161;   /* Кнопка сканирования - зелёный */
@@ -441,3 +441,4 @@
             content: "Микро Выкл" !important;
 
         }
+
