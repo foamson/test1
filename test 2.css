@@ -1,7 +1,7 @@
 :root {
-            --dracula-text-color: #f8f8f2;          /* Основной текст - мягкий белый */
-            --dracula-text2-color: #f8f8f2;         /* Вторичный текст - мягкий белый */
-            --dracula-background-color: #252527;    /* Фон - модуля серый */
+            --dracula-text-color: #000000;          /* Основной текст - мягкий белый */
+            --dracula-text2-color: #000000;         /* Вторичный текст - мягкий белый */
+            --dracula-background-color: #000000;    /* Фон - модуля серый */
             --dracula-link-color: #737373;          /* Ссылки - фиолетовый */
             --dracula-modal-background: #383a47;    /* Модальные окна - чуть светлее фон */
             --dracula-checkbox-background-color: #a6a6ab; /* Чекбоксы - светло-серый */
@@ -441,4 +441,5 @@
             content: "Микро Выкл" !important;
 
         }
+
 
